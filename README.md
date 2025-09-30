@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20802266)
 ## **CMP9780M** Applied Signal and Image Processing, **EGR3031** Signal Processing and System Identification. and **BME3002** Biomedical Imaging and Signal Processing 
 #### Week 1: Working Within the GitHuB Classroom Environment
 
